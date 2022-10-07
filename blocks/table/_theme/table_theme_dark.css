@@ -1,0 +1,14 @@
+.table_theme_dark {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-content: space-around;
+  width: 1100px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0px;
+  margin-bottom: 90px;
+  padding: 0;
+  justify-content: space-between;
+}
